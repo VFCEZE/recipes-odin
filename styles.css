@@ -17,3 +17,19 @@ a:hover {
     background-color: #f5f4f1;
     color: #71c4ef;
 }
+
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+p {
+    text-justify:distribute;
+}
+
+h2 {
+    color: #71c4ef;
+    border: 1px solid #b6ccd8;
+    width: 30%
+}

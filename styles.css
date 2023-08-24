@@ -1,0 +1,19 @@
+* {
+    background-color: #fffefb
+}
+
+h1 {
+    color: #00668c;
+}
+
+
+a {
+    color: black;
+    font-size: 20px;
+    text-decoration: none
+}
+
+a:hover {
+    background-color: #f5f4f1;
+    color: #71c4ef;
+}

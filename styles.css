@@ -1,9 +1,32 @@
 * {
-    background-color: #fffefb
+    background-color: #fffefb;
+    align-items: center;
+    text-align:  center;
+
 }
 
 h1 {
     color: #00668c;
+    background-color:#a8d4e4;
+    border: #0066 4px solid;
+}
+
+h2 {
+    color: #71c4ef;
+    border: 1px solid #b6ccd8;
+    width: 200px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+ul, ol {
+padding: 0 40%;
+justify-content: center;
+}
+
+ul > li , ol>li{
+    padding-left: 4%;
+    text-align: left;
 }
 
 
@@ -22,14 +45,13 @@ a:hover {
 img {
     width: 250px;
     height: auto;
+    align-items: center;
+    margin: 0 40%;
 }
 
 p {
     text-justify:distribute;
+    justify-content: center;
+    padding:0 15%;
 }
 
-h2 {
-    color: #71c4ef;
-    border: 1px solid #b6ccd8;
-    width: 30%
-}
